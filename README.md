@@ -63,4 +63,30 @@ Durante el desarrollo de ALOapp fortalecí conocimientos en:
 
 ## Capturas
 
-Las capturas del proyecto serán agregadas próximamente.
+### Vista 1
+
+![Vista 1](foto1.png)
+
+### Vista 2
+
+![Vista 2](foto2.png)
+
+### Vista 3
+
+![Vista 3](foto3.png)
+
+### Vista 4
+
+![Vista 4](foto4.png)
+
+### Vista 5
+
+![Vista 5](foto5.png)
+
+### Vista 6
+
+![Vista 6](foto6.png)
+
+### Vista 7
+
+![Vista 7](foto7.png)
