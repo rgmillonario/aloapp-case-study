@@ -31,7 +31,9 @@ El objetivo de ALOapp es ofrecer una alternativa simple y rápida para que usuar
 
 ## Estado del proyecto
 
-La aplicación se encuentra en proceso de publicación. La solicitud de producción fue realizada en Google Play Console.
+ALOapp ha sido aprobada para producción en Google Play.
+
+El proyecto fue desarrollado como una aplicación móvil real usando Flutter y Firebase, enfocada en la publicación local de productos, búsqueda, autenticación de usuarios, gestión de imágenes, chat interno y manejo de datos en Cloud Firestore.
 
 ## Rol en el proyecto
 
